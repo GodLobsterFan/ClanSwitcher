@@ -3,4 +3,4 @@ A simple relay override for the Kingdom of Loathing that adds a dropdown menu to
 
 To install, just run...
 
-<pre>svn checkout https://github.com/GodLobsterFan/ClanSwitcher/trunk/release</pre>
+<pre>svn checkout https://github.com/GodLobsterFan/ClanSwitcher/trunk/Release</pre>
